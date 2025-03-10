@@ -1,4 +1,4 @@
-A very simple panel for Garrys mod
+A very simple panel for Garrys mod.
 Press "TAB" to open the panel.
 
 
